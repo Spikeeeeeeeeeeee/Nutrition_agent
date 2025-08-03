@@ -4,9 +4,7 @@
 ## 👤 Presented By
 **Abtahi Sayed**  
 S G Balekundri Institute of Technology  
-Department of [Your Department Here]
 
----
 
 ## 📘 Project Overview
 
@@ -98,4 +96,5 @@ The proposed Nutrition Agent uses a combination of **AI**, **machine learning**,
 3. Call Granite LLM for meal plan generation
 4. Present results via chatbot
 5. Store user feedback and refine prompts
+
 
